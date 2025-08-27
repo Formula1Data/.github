@@ -1,7 +1,8 @@
-# Formula 1 Data
-## Trabalhos da matéria de Ciência de Dados com o Prof. Manseira
+# Trabalhos da matéria de Ciência de Dados com o Prof. Manseira
 
-**Grupo parceiro:** https://github.com/formula-7
+## Grupo:
+- Maruan Biasi
+- Ricardo Falcão
 
 ------------------------
 
